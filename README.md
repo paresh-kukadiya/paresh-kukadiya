@@ -6,7 +6,7 @@
 - 👨‍💻 I am also interested in Development and Networking.
 - 🔭 I’m currently working on My Skill and improve it
 - 🌱 I’m currently learning **Python** and **Java**
-- 💬 Ask me about **Data Structur and Algoritham, Java, Pythone, PHP**
+- 💬 Ask me about **Data Structurer and Algoritham, Android, Java, Pythone, PHP**
 
 *******
 💬 Always Open to help! Reach Out to me: 
