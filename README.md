@@ -11,7 +11,6 @@
 *******
 💬 Always Open to help! Reach Out to me: 
 <br><br>
-<script src="https://tryhackme.com/badge/2119183"></script>
 [![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paresh-kukadiya-216589255)
 [![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/KPISHEAR)
 [![Instagram](https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/paresh__33_?igshid=MzNlNGNkZWQ4Mg==)
